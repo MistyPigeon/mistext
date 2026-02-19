@@ -1,5 +1,3 @@
-
-
 from tkinter import *
 import tkinter.filedialog as fd
 import tkinter.messagebox as mb
@@ -158,3 +156,4 @@ root.config(menu=menu_bar)
 # Finalizing the window
 root.update()
 root.mainloop()
+
